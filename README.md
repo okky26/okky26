@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okky26
-- 👀 I’m interested in ui/ux, web development
-- 🌱 I’m currently learning developing web
+- 👀 I’m interested in web development especially to front-end dev
+- 🌱 I’m currently working as junior front-end dev
 - 💞️ I’m looking to collaborate on developing web project
 - 📫 How to reach me contact me through my email okky.adiansyah8387@gmail.com
 
